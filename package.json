@@ -15,7 +15,7 @@
   ],
   "license": "MIT",
   "peerDependencies": {
-    "react": "0.13.x||0.14.x"
+    "react": "0.14.x"
   },
   "dependencies": {
     "object-assign": "^2.0.0",
